@@ -34,8 +34,7 @@
           <ul>
             <li><a class="home-link" href="https://aws.amazon.com/">Home</a></li>
             <li><a href="https://aws.amazon.com/what-is-cloud-computing/">About</a></li>
-            <li><a href="https://aws.amazon.com/solutions/">Services</a></li>
-            <li><a href="https://aws.amazon.com/contact-us/">Contact</a></li>
+            <li><a href="mailto:drdaveg@gmail.com">Contact</a></li>
           </ul>
         </nav>
       </header>
@@ -45,12 +44,13 @@
               <img src="${tweetSvg}" alt="Tweet"/>
           </a>
         <div class="text">
-          <h1>Congratulations!</h1>
-          <h2>You just created a Java Spring web application.</h2>
+          <h1>Congregation Rolodex and Manager</h1>
+          <h2>(a Java Spring web application)</h2>
         </div>
       </div>
     </div>
 
+    <!--  add body here -->
     <footer>
       <p class="footer-contents">Designed and developed with <a href="https://aws.amazon.com/careers/devtools-jobs/">♥</a> in Seattle.</p>
     </footer>
